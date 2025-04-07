@@ -1,0 +1,10 @@
+{
+    "scrape_mode": "full",
+    "output_file": "books_data.csv",
+    "pagination": true,
+    "base_url": "http://books.toscrape.com/catalogue/page-{}.html",
+    "start_page": 1,
+    "max_pages": null,
+    "delay": 1
+  }
+  
